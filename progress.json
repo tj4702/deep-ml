@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:40:07.312Z",
+  "generated_at": "2026-10-09T11:40:33.375Z",
   "items": {
     "math:34": {
       "kind": "math",
@@ -79,6 +79,19 @@
       "path": "problems/0112-min-max-scaling-of-feature-values",
       "first_solved_at": "2026-10-09T11:39:37.046Z",
       "last_pushed_at": "2026-10-09T11:39:58.017Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-10-09T11:40:32.590Z",
+      "last_pushed_at": "2026-10-09T11:40:32.590Z",
       "language": "python",
       "lines": 17
     }
